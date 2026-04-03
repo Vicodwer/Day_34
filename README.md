@@ -46,18 +46,10 @@ Take-home assignment focused on **Maximum Margin Classifier, SVM (hard/soft marg
 - `requirements.txt`
 - `README.md` (this file)
 
-## 🛠️ How to Run
-```bash
-git clone <your-repo>
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook svm_knn_digits.ipynb
-
 # Day_34_PM
 
 ---
 
-### 2. For the **PM Assignment** repo → `README.md`
 
 ```markdown
 # SVM, KNN & Full Week ML Algorithm Comparison
@@ -87,5 +79,3 @@ When: Tabular data, need best accuracy
 Params: n_estimators, learning_rate, max_depth
 Pros: Fast, handles missing values, regularized
 Cons: Less interpretable
-
-
