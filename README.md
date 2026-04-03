@@ -79,3 +79,23 @@ When: Tabular data, need best accuracy
 Params: n_estimators, learning_rate, max_depth
 Pros: Fast, handles missing values, regularized
 Cons: Less interpretable
+
+Part B: Stretch Problem (30%) — SVM for Text Classification
+
+Loaded 20newsgroups dataset (4 categories)
+Built TF-IDF + LinearSVC pipeline
+Trained and evaluated SVM model
+Compared performance with Logistic Regression on the same text data
+
+Part C: Interview Ready (20%)
+
+Answered high-dimensional data question (100 features, 50 samples)
+Implemented model_selection_report() function with scaling + CV + statistical best model (paired t-test)
+Diagnosed SVM overfitting case (train acc 1.0, test acc 0.52) and proposed 3 specific fixes
+
+Part D: AI-Augmented Task (10%)
+
+Used AI to generate a "Decision Tree for Algorithm Selection" based on dataset characteristics
+Verified every recommendation against practical experience
+Identified edge cases and improved the guide
+Saved as personal algorithm selection reference
